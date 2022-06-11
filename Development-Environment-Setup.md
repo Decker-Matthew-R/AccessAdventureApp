@@ -48,3 +48,15 @@ This .md file contains all the information needed to set up your development env
  
 #### --Clone Git Repo--
 ##### --This will allow you to access the git repo from a local source--   
+
+#### --Git Commands/Setting Up a Branch--
+##### --This will allow you to use git through command line and set up a remote branch to work from--  
+
+
+
+
+The following resources helped me to set up the development environment. Please refer to them or reach out to me if you have any trouble setting up the environment.   
+
+https://reactnative.dev/docs/environment-setup#:~:text=You%20will%20need%20Node%2C%20the,React%20Native%20app%20for%20Android.   
+https://code.tutsplus.com/tutorials/how-to-create-a-react-native-android-app--cms-35636   
+https://levelup.gitconnected.com/android-react-native-window-setup-how-to-setup-android-environment-for-react-native-app-588aaa13c3a6
