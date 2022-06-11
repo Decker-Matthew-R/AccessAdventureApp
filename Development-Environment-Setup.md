@@ -34,7 +34,17 @@ This .md file contains all the information needed to set up your development env
      -  You will find the most recent version under "Assets" and will look for the file called "nvm-setup.zip from the most recent date.
      -  Follow the prompts located on the screen to install nvm. 
      -  After nvm is installed, circle back to the sub steps located under step 1 to ensure everything is downloaded and updated.
-  3. 
-
-   
   
+#### --Download Android Studio--
+##### --Android Studio is the IDE we will be working with for this project. It has a built in emulator that will allow us to test apps without and android phone.--
+  1. Go to https://developer.android.com/studio
+  2. Select the download you need for your device.
+  3. See the following webpage for how to set up Android Studio for React Native and your emulator https://levelup.gitconnected.com/android-react-native-window-setup-how-to-setup-android-environment-for-react-native-app-588aaa13c3a6
+  4. To set up the Android Emulator, see the above link.
+ 
+#### --Download Expo CLI--
+##### --This will allow us to download Expo CLI. This will allow us to run the project server and open the emulator--  
+  1. Type npm install npm install expo-cli --global into command line. This will install Expo CLI
+ 
+#### --Clone Git Repo--
+##### --This will allow you to access the git repo from a local source--   
