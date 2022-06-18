@@ -3,7 +3,7 @@
 
 #### **Group 2:**
 Scrum Mast: Matt Decker  
-Team Role: Devika Kandel Neupane    
+Product Owner: Devika Kandel Neupane    
 Developer: Ifeanyi Okoye   
 Developer: Cameron Page  
 
