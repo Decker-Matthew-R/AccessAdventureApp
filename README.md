@@ -15,3 +15,7 @@ Here you will find our backlog items and work assignments To access user stories
 Please follow along as we work through this project this semester.  
 <br>
 Sincerly, the AccessAdventure Team!  
+<br>
+<br>
+<br>
+Please view the Development-Envrionment-Setup.md for a comprehensive guide on setting up the development environment. Please reach out to Matt Decker if you have any issues setting up the development environment.  
