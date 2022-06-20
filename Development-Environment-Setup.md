@@ -7,7 +7,7 @@ Product Owner: Devika Kandel Neupane
 Developer: Ifeanyi Okoye   
 Developer: Cameron Page  
  
-This .md file contains all the information needed to set up your development environment. The steps listed below were all done on a PC using Windows 10 Home.
+This .md file contains all the information needed to set up your development environment. The steps listed below were all done on a PC using Windows 10 Home. This setup has been verified to work.  
   
 #### --Setting Up Git/Github--
 ##### --This step will be essential in allowing us to collaborate and revert to past iterations of our app should we encounter problems--
@@ -59,6 +59,8 @@ This .md file contains all the information needed to set up your development env
 
 #### --Git Commands/Setting Up a Branch--
 ##### --This will allow you to use git through command line and set up a remote branch to work from--  
+  1. "git fetch --all" will pull all changes from the remote repo to your local host.  
+  2.  
 
 
 
