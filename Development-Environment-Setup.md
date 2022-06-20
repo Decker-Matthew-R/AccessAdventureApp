@@ -44,10 +44,18 @@ This .md file contains all the information needed to set up your development env
  
 #### --Download Expo CLI--
 ##### --This will allow us to download Expo CLI. This will allow us to run the project server and open the emulator--  
-  1. Type npm install npm install expo-cli --global into command line. This will install Expo CLI
+  1. Type npm install npm install expo-cli --global into command line. This will install Expo CLI.  
+  2. Once the file has finished installing, type Expo Start into the command line. This will run the local server.
+  3. Once Expo has started, open a chrome browser tab and type: http://localhost:19002/  
+  4. Once the page has loaded, click "Run Android Emulator" on the right side of the page. This will connect to the emulator you have set up in Android Studio.  
  
 #### --Clone Git Repo--
-##### --This will allow you to access the git repo from a local source--   
+##### --This will allow you to access the git repo from a local source-- 
+  1. Open the gitup page for the AccessAdventure app.  
+  2. From the "Code" Page, click the green "Code" Button.
+  3. Copy the HTTPS url provided by github.
+  4. From the command line, "CD" into the directory in which you wish to clone to the repo.  
+  5. Once you are in the directory in which you wish to paste a local version of your repo, type "Git clone <paste url you copied from github>. The repo is now cloned to a local source.
 
 #### --Git Commands/Setting Up a Branch--
 ##### --This will allow you to use git through command line and set up a remote branch to work from--  
