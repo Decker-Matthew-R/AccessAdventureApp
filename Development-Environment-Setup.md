@@ -1,11 +1,11 @@
 # **AccessAdventureApp**
 #### SWE6733 - Emerging Software Engineering Processes - Dr. Reza Parizi
 
-#### **Group 2:**  
-Team Role: Matt Decker  
-Team Role: Ifeanyi Okoye  
-Team Role: Devika Kandel Neupane  
-Team Role: Cameron Mitchel hello Page  
+#### **Group 2:**
+Scrum Mast: Matt Decker  
+Product Owner: Devika Kandel Neupane    
+Developer: Ifeanyi Okoye   
+Developer: Cameron Page  
  
 This .md file contains all the information needed to set up your development environment. The steps listed below were all done on a PC using Windows 10 Home.
   
