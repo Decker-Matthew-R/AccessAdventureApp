@@ -63,14 +63,15 @@ This .md file contains all the information needed to set up your development env
   2. "git pull" will pull all changes from the remote repository to your local repo.
   3. To merge the remote master branch with a different local branch:
      - "git chekcout <branch-name>" This will move to the branch you wish to update.
-     - "git pull --all" This will update the current branch you are viewing with all other branches on the remote repo.
-
-
-
+     - "git pull origin main" This will update the current branch you are viewing with the remote main branch and update the code.
+  4. To push changes you make to the remote repository:
+     - "git add <file or files you wish to add> This will add changes to a staging area
+     - "git commit -m "commit message detailing what changes" This will commit the changes you make.
+     - "git push" This will push your changes to the remote branch where it can be merged with the master.
+ 
 
 The following resources helped me to set up the development environment. Please refer to them or reach out to me if you have any trouble setting up the environment.   
 
 https://reactnative.dev/docs/environment-setup#:~:text=You%20will%20need%20Node%2C%20the,React%20Native%20app%20for%20Android.   
 https://code.tutsplus.com/tutorials/how-to-create-a-react-native-android-app--cms-35636   
 https://levelup.gitconnected.com/android-react-native-window-setup-how-to-setup-android-environment-for-react-native-app-588aaa13c3a6
-<br> TEST TEST DELETE
