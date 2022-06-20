@@ -19,3 +19,6 @@ Sincerly, the AccessAdventure Team!
 <br>
 <br>
 Please view the Development-Envrionment-Setup.md for a comprehensive guide on setting up the development environment. Please reach out to Matt Decker if you have any issues setting up the development environment.  
+<br>
+Please view the Backlog-Items.md for a list of all backlog items as identified for deliverable 1 (this will be updated as we work through the project).  
+Here you can find the user stories associated with each backlog item, however they are also in Azure DevOps: https://dev.azure.com/AccessAdventureApp/AccessAdventureApp%20Project    
