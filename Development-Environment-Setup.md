@@ -58,9 +58,12 @@ This .md file contains all the information needed to set up your development env
   5. Once you are in the directory in which you wish to paste a local version of your repo, type "Git clone <paste url you copied from github>. The repo is now cloned to a local source.
 
 #### --Git Commands/Setting Up a Branch--
-##### --This will allow you to use git through command line and set up a remote branch to work from--  
-  1. "git fetch --all" will pull all changes from the remote repo to your local host.  
-  2.  
+##### --The following command line prompts will allow you to use git and colloborate on this project.--  
+  1. "git status" will let you know if the code you are working on is the most current code on the remote repository.  
+  2. "git pull" will pull all changes from the remote repository to your local repo.
+  3. To merge the remote master branch with a different local branch:
+     - "git chekcout <branch-name>" This will move to the branch you wish to update.
+     - "git pull --all" This will update the current branch you are viewing with all other branches on the remote repo.
 
 
 
