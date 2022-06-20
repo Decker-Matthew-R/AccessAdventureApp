@@ -10,7 +10,8 @@ Developer: Cameron Page
 This product will be created with a combination of React Native and SQL to provide an application for users to locate friends who are interested in the same activities. It will allow to people to connect and to create memories whether your new to an area or just looking to find friends who share similar interests.  
 Access your Adventure today!  
 <br>
-
 Our project management tools can be found at: https://dev.azure.com/AccessAdventureApp/AccessAdventureApp%20Project  
-Here you will find our backlog items. To access user stories associated with the backlog items, simply click the backlog item and view the description.  
- 
+Here you will find our backlog items and work assignments To access user stories associated with the backlog items, simply click the backlog item and view the description.  
+Please follow along as we work through this project this semester.  
+<br>
+Sincerly, the AccessAdventure Team!  
