@@ -16,7 +16,7 @@ Please navigate to Azure DevOps to view our initial product backlog. You can acc
 By viewing the Backlog items in Azure, you will find a list of our backlog items. By clicking on the item and viewing the description, you can also find the user stories we used to express our backlog items. Our user stories are also posted below for ease of access.
 <br>
 <br>
-Please visit our DefinitionRead.docx for a word document detailing the definition of ready for our backlog items.
+Please visit our DefinitionReady.docx for a word document detailing the definition of ready for our backlog items.
 <br>
 <br>
 1. As a user I want to create my sign-up page so that I can create my profile.  
