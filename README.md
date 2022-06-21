@@ -20,6 +20,6 @@ Sincerly, the AccessAdventure Team!
 <br>
 Please view the Development-Envrionment-Setup.md for a comprehensive guide on setting up the development environment. Please reach out to Matt Decker if you have any issues setting up the development environment.  
 <br>
-Please view our AccessAdventureApp Goals.docx for an explaination of the project and our goals both near and far. This will detail what we hope to learn and accomplish by developing this app and where we see it going in the future.  
+Please view our Product-Vision.docx for an explaination of the project and our goals both near and far. This will detail what we hope to learn and accomplish by developing this app and where we see it going in the future.  
 <br>
 Please view the Backlog-Items.md for a list of all backlog items as identified for deliverable 1 (this will be updated as we work through the project). Here you can find the user stories associated with each backlog item, however they are also in Azure DevOps: https://dev.azure.com/AccessAdventureApp/AccessAdventureApp%20Project    
