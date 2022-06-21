@@ -10,7 +10,8 @@ Developer: Cameron Page
 <br>
 ## Product Backlog
 <br>
-Please navigate to Azure DevOps to view our initial product backlog. You can access our Azure DevOps project by navigating to this url: https://dev.azure.com/AccessAdventureApp/AccessAdventureApp%20Project    
+Please navigate to Azure DevOps to view our initial product backlog. You can access our Azure DevOps project by navigating to this url: https://dev.azure.com/AccessAdventureApp/AccessAdventureApp%20Project  
+<br>
 <br>
 By viewing the Backlog items in Azure, you will find a list of our backlog items. By clicking on the item and viewing the description, you can also find the user stories we used to express our backlog items. Our user stories are also posted below for ease of access.
 
