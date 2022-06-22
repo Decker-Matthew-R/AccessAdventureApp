@@ -27,28 +27,17 @@ Our product backlog is ordered in a way that represents the flow of the app. Fir
 <br>
 
 1. As a user I want to create my sign-up page so that I can create my profile.
-2. As a user I want to log in with my user name and password so that I can get into my page.
-<br>
+2. As a user I want to log in with my user name and password so that I can get into my page.  
 3. As a user I want to have the option to set up my profile so that I can update my information.  
-<br>
 4. As a user I want this application to be enabled on my IOS and Android devices so that I can check my profile from any devices.  
-<br>
 5. As a user I want to have the options to chat with friends so that I can chat with my friends when available. 
-<br>
 6. As a user I want to have my current location set as default location so that I can pinpoint where I am looking my match.  
-<br>
 7. As a user I want my personal information to be secure so that my information won't leak. 
-<br>
 8. As a user I want to have log out functionality activated so that I can securely log out from my app.
-<br>
 9. As a user I want the ability to retrieve or reset a password so I will be able to access my account if I forget the password.  
-<br>
 10. As a user I want to have the ability to delete the profile so that I can delete my profile when needed.  
-<br>
 11. As a user, I want to have my account activated with face ID and fingerprint.
-<br>
 12. As a user I want to have a separate database created so that all the users information are kept separate and secure.  
-<br>
 13. As a user I want to have log out functionality activated so that I can securely log out from my app. As a user I want to link my profile to my social media apps so that I can access the updates soon. 
 <br>
 <br>
