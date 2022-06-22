@@ -27,7 +27,6 @@ Our product backlog is ordered in a way that represents the flow of the app. Fir
 <br>
 
 1. As a user I want to create my sign-up page so that I can create my profile.
-<br>
 2. As a user I want to log in with my user name and password so that I can get into my page.
 <br>
 3. As a user I want to have the option to set up my profile so that I can update my information.  
