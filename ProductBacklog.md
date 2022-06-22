@@ -16,9 +16,14 @@ Please navigate to Azure DevOps to view our initial product backlog. You can acc
 By viewing the Backlog items in Azure, you will find a list of our backlog items. By clicking on the item and viewing the description, you can also find the user stories we used to express our backlog items. Our user stories are also posted below for ease of access.
 <br>
 <br>
-Please visit our DefinitionReady.docx for a word document detailing the definition of ready for our backlog items.
+Please visit our DefinitionReady.docx for more information on the definition of ready for our app. 
 <br>
 <br>
+###Rationale For Backlog Order  
+Our product backlog is ordered in a way that represents the flow of the app. First, users must view the sign-up page and create a login page. From their, our backlog items flow as a user would use the app. At the bottom of our backlog items, we have included features that aren't essential for an MVP, but features we hope to be able to include if time permits.
+<br>
+<br>
+
 1. As a user I want to create my sign-up page so that I can create my profile.  
 <br>
 2. As a user I want to log in with my user name and password so that I can get into my page.  
