@@ -19,9 +19,14 @@ By viewing the Backlog items in Azure, you will find a list of our backlog items
 Please visit our DefinitionReady.docx for more information on the definition of ready for our app. 
 <br>
 <br>
-## **Product Backlog Rationale**
+Product Backlog Rationale
 <br>
 Our product backlog is ordered in a way that represents the flow of the app. First, users must view the sign-up page and create a login page. From their, our backlog items flow as a user would use the app. At the bottom of our backlog items, we have included features that aren't essential for an MVP, but features we hope to be able to include if time permits.
+<br>
+<br>
+Definition of Ready
+<br>
+Our definition of ready is fluid and will agreed upon at a meeting prior to our sprint. We anticipate working the applictation from the user stories present below. This will create a development experience close to what the application user will recieve from logging into the app through actually using it for it's intended purpose. As one item is finished, others will become ready as we move through the application. 
 <br>
 <br>
 
