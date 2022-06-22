@@ -26,7 +26,7 @@ Our product backlog is ordered in a way that represents the flow of the app. Fir
 <br>
 Definition of Ready
 <br>
-Our definition of ready is fluid and will agreed upon at a meeting prior to our sprint. We anticipate working the applictation from the user stories present below. This will create a development experience close to what the application user will recieve from logging into the app through actually using it for it's intended purpose. As one item is finished, others will become ready as we move through the application. 
+Our definition of ready is fluid and will agreed upon at a meeting prior to our sprint. We anticipate working the applictation from the user stories present below. This will create a development experience close to what the application user will recieve from logging into the app through actually using it for it's intended purpose. As one item is finished, others will become ready as we move through the application. Please view our DefinitionReady.docx and our Azure DevOps project for more information.
 <br>
 <br>
 
