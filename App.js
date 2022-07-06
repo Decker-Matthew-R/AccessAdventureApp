@@ -8,21 +8,21 @@ import LoginScreen from './screens/LoginScreen';
 import HomeScreen from './screens/HomeScreen';
 import ProfileScreen from './screens/ProfileScreen';
 
-const Stack = createNativeStackNavigator();
-
 const Tab = createBottomTabNavigator();
 
 export default function App() {
   return (
     <NavigationContainer>
-      <Tab.Navigator screenOptions={{ headerShown: false }}>
-        <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Profile" component={ProfileScreen} />
-        <Tab.Screen name="Settings" component={ProfileScreen} />
+      <Tab.Navigator screenOptions={{ headerShown: false}}>
+          <Tab.Screen name="Home" component={HomeScreen} />
+          <Tab.Screen name="Login" component={LoginScreen} />
+          <Tab.Screen name="Profile" component={ProfileScreen} />
       </Tab.Navigator>
     </NavigationContainer>
-  );
+  )
 }
+
+// const Stack = createNativeStackNavigator();
 
 // export default function App() {
 
